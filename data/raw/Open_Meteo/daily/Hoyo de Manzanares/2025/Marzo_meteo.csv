@@ -1,0 +1,3 @@
+date,weather_code,temperature_2m_max,temperature_2m_min,temperature_2m_mean,year,month_number,month_name,relative_humidity_2m,estación
+2025-03-01 00:00:00+00:00,71.0,6.231,1.8809999,4.73725,2025,3,Marzo,85.89570664285714,ESMAD2800000028240A
+2025-03-02 00:00:00+00:00,73.0,2.131,0.48099998,1.4393334,2025,3,Marzo,92.46970971428571,ESMAD2800000028240A
