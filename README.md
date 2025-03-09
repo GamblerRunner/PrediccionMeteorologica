@@ -1,6 +1,6 @@
 # PredicciónMeteorológica
-> Proyecto 3 Master IABD
-
+> Proyecto 3 Master IABD 
+Video del funcionamiento del modelo: https://youtu.be/3THhk-Xl0go
 ## Que hace este proyecto?
 El objetivo de este proyecto es extraer los datos de diferentes fuentes mediante descargas o web scrapping, modificación y homogenización de los datos para su uso en los modelos, el uso de herramientas de visualización como PowerBI o Tableau y el manejo de series temporales y como hacer predicciones sobre ellas. 
 
